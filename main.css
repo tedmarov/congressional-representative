@@ -1,0 +1,43 @@
+
+  .bio {
+
+    text-align: center;
+    padding: 10px;
+  }
+
+.bio__district--Name {
+
+    text-align: center;
+    justify-content: space-evenly;
+    font-size: 42px;
+    border: 5px solid blue;
+    margin: 5px;
+  }
+
+  .bio__district--legislation {
+    text-align: center;
+    justify-content: space-evenly;
+    border: 5px solid blue;
+    padding-bottom: 15px;
+  
+  }
+
+   body { 
+    background-image: url("https://images6.fanpop.com/image/photos/40100000/Baby-Penguin-penguins-40120979-1024-768.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+   }
+
+   h1 {
+       display:inline
+   }
+
+     /* .shop { 
+    display: flex;
+    flex-basis: 30%;
+    flex-direction: column;
+    border: 1px dotted green;
+    margin: 0em 0em 0em 0.5em;
+    padding: 0.125em 0em 0.125em 0.25em;
+  }
+*/
